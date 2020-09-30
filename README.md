@@ -1,0 +1,4 @@
+# Environment
+- typescript
+- react
+- redux
